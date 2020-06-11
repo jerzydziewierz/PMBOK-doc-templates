@@ -1,28 +1,23 @@
-# PMBOK-doc-templates
-Linked document structure for PMBOK 6th ed. documents, plans, processes, e.t.c in in markdown
+# PMBOK document templates
+Linked document structure for project management as described in the PMI PMBOK Guide 6th ed.  Documents, Plans, Processes, e.t.c - in markdown
 
 ---
 
 # About
 
-
- === work in progresss==
-
 Basic , easy to edit templates for starting a project using project management method from the PMI PMBOK Guide 6.0
 
-Separate folders for:
+There are separate folders with:
 
-- Business Documents - (? templates)
-- Processess - the 49 processes of PMBOK 
-- Project Documents ( ? how many ??)
-- Project management plans (10 areas?)
-- Tools and techniques. These are mostly empty, to serve primarily as a reminder and learning tool.
+- Business Documents - 2 templates
+- Project Documents (in the PMBOK sense) - 33 templates
+- Project management plans - 18 templates
+
+
 
 The root folder contains the the super-documents:
 
 - Project charter, 
-- Process groups list
-- Knowledge areas list
 - EEF (Enterprise Envinromental Factors) template/reminder/list
 - OPA (Organisational Process Assets) template/reminder/list
 
@@ -30,17 +25,36 @@ and some misc documents.
 
 
 
+These are linked together by:
+
+- Process groups list
+- Knowledge areas list
+- Processess list - the 49 processes of PMBOK 
+- Tools and techniques list
+
+
+
+Many documents will be pre-filled with links to related documents.
+
+You will find that most documents are nearly empty or a bare stub. This is intended - these documents are supposed to be starting points for project instance notes, and not a recreation of the PMBOK Guide.  
+
+Depending on the project size, you might find that merging some documents into one bigger file is appropriate (tailoring). Likewise, if your project is bigger, you might need additional folders, or that a specialized tool might be better for you.
+
+
+
 ------
 
 
 
-# How to use this.
+# How to use this
 
 1. Clone the repository or copy the files to your own machine
 2. Edit freely.
 3. If desired, create your own per-project repository
 
 You can use e.g. https://obsidian.md/ to keep these as a common, linked system. 
+
+
 
 # How to contribute
 
@@ -70,3 +84,6 @@ Created using https://obsidian.md/ - and https://typora.io/ where applicable. Th
 
 
 
+Disclamer:
+
+This is not a part of the  PMBOK guide, nor a reproduction.
