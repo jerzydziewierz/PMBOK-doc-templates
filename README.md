@@ -1,9 +1,7 @@
-# PMBOK-doc-templates
-Linked document structure for PMBOK 6th ed. documents, plans, processes, e.t.c in in markdown
+# PMBOK document templates
+Linked document structure for project management as described in the PMI PMBOK Guide 6th ed.  Documents, Plans, Processes, e.t.c - in markdown
 
 ---
-
-
 
 # About
 
@@ -11,7 +9,7 @@ Basic , easy to edit templates for starting a project using project management m
 
 There are separate folders with:
 
-- Business Documents
+- Business Documents 
 - Project Documents (in the PMBOK sense)
 - Project management plans 
 
@@ -86,3 +84,6 @@ Created using https://obsidian.md/ - and https://typora.io/ where applicable. Th
 
 
 
+Disclamer:
+
+This is not a part of the  PMBOK guide, nor a reproduction.
