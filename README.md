@@ -87,4 +87,4 @@ Created using https://obsidian.md/ - and https://typora.io/ where applicable. Th
 
 Disclamer:
 
-This is not a part of the  PMBOK guide, nor a reproduction.
+This is not a part of the  PMBOK guide, nor a reproduction. These document stubs are original freeware side material.
