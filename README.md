@@ -9,9 +9,9 @@ Basic , easy to edit templates for starting a project using project management m
 
 There are separate folders with:
 
-- Business Documents 
-- Project Documents (in the PMBOK sense)
-- Project management plans 
+- Business Documents - 2 templates
+- Project Documents (in the PMBOK sense) - 33 templates
+- Project management plans - 18 templates
 
 
 
