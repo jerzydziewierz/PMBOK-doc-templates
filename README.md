@@ -1,17 +1,18 @@
 # PMBOK document templates
-Linked document structure for project management as described in the PMI PMBOK Guide 6th ed.  Documents, Plans, Processes, e.t.c - in markdown
+Linked document structure for project management as described in the PMI PMBOK Guide 6th ed.  
+Plans, Documents, Processes, Tools &techniques e.t.c - in markdown.
 
 ---
 
 # About
 
-Basic , easy to edit templates for starting a project using project management method from the PMI PMBOK Guide 6.0
+This repository contains easy to edit templates for starting a project documentation using the project management method from the PMI PMBOK Guide 6.0. 
 
 There are separate folders with:
 
 - Business Documents - 2 templates
-- Project Documents (in the PMBOK sense) - 33 templates
-- Project management plans - 18 templates
+- Project Documents (in the PMBOK sense) - 36 templates
+- Project management plans - 14+6 templates
 
 
 
