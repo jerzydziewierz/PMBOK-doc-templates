@@ -1,0 +1,1 @@
+Describes how the information about the items of the project will be recorded and updated so that the product, service, or result of the project remains consistent and operative.
