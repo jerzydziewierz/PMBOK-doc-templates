@@ -9,15 +9,15 @@ Basic , easy to edit templates for starting a project using project management m
 
 There are separate folders with:
 
-- Business Documents - 2 templates
-- Project Documents (in the PMBOK sense) - 33 templates
-- Project management plans - 18 templates
+- Business Documents - 2 templates (complete ) 
+- Project Documents (in the PMBOK sense) - 36 templates ( complete )
+- Project management plans - 18 templates ( in progress)
 
 
 
 The root folder contains the the super-documents:
 
-- Project charter, 
+- Project charter
 - EEF (Enterprise Envinromental Factors) template/reminder/list
 - OPA (Organisational Process Assets) template/reminder/list
 
@@ -25,25 +25,22 @@ and some misc documents.
 
 
 
-These are linked together by:
+In addition to the links to each project documents from each of the process, these are additionally linked together by:
 
-- Process groups list
-- Knowledge areas list
-- Processess list - the 49 processes of PMBOK 
-- Tools and techniques list
+- Process groups list (in progress)
+- Knowledge areas list (in progress)
+- Tools and techniques list (in progress)
+- document list (in progress)
 
 
-
-Many documents will be pre-filled with links to related documents.
+Some documents will be pre-filled with links to related documents.
 
 You will find that most documents are nearly empty or a bare stub. This is intended - these documents are supposed to be starting points for project instance notes, and not a recreation of the PMBOK Guide.  
 
 Depending on the project size, you might find that merging some documents into one bigger file is appropriate (tailoring). Likewise, if your project is bigger, you might need additional folders, or that a specialized tool might be better for you.
 
 
-
 ------
-
 
 
 # How to use this
@@ -53,7 +50,6 @@ Depending on the project size, you might find that merging some documents into o
 3. If desired, create your own per-project repository
 
 You can use e.g. https://obsidian.md/ to keep these as a common, linked system. 
-
 
 
 # How to contribute
@@ -69,13 +65,12 @@ Please do not submit the templates pre-filled with Your project-specific data! h
 I will most likely accept all improvements that refer to the original PMBOK 6th Edition. Adaptations and extensions of PMBOK process (e.g. for agile mods) might be acceptable on a case-by-case basis.
 
 
-
 # Progress log
 
 
 
 2020-06-10: Chapter 13 - Stakeholder management - docs complete. Some Tools and Techniques ommited.
-
+2020-06-10: Chapter 4 - Project integration - docs complete, links complete. Also, I have pre-added all the "project documents" so there is now 36 of them. Note that some of the documents used later in the project are not mentioned in PMBOK 4.2.3.1 Table 4-1
 
 
 ---
