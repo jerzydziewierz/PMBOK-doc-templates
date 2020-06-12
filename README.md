@@ -1,32 +1,29 @@
 # PMBOK document templates
-Linked document structure for project management as described in the PMI PMBOK Guide 6th ed.  Documents, Plans, Processes, e.t.c - in markdown
+Linked document structure for project management as described in the PMI PMBOK Guide 6th ed.  
+Plans, Documents, Processes, Tools &techniques e.t.c - in markdown.
 
 ---
 
 # About
 
-Basic , easy to edit templates for starting a project using project management method from the PMI PMBOK Guide 6.0
+This repository contains easy to edit templates for starting a project documentation using the project management method from the PMI PMBOK Guide 6.0. 
 
 There are separate folders with:
-
+- Business Documents - 2 templates
+- Project Documents (in the PMBOK sense) - 36 templates
+- Project management plans - 14+6 templates
 - Business Documents - 2 templates (complete ) 
-- Project Documents (in the PMBOK sense) - 36 templates ( complete )
-- Project management plans - 18 templates ( in progress)
 
 
 
 The root folder contains the the super-documents:
-
 - Project charter
 - EEF (Enterprise Envinromental Factors) template/reminder/list
 - OPA (Organisational Process Assets) template/reminder/list
 
 and some misc documents.
 
-
-
 In addition to the links to each project documents from each of the process, these are additionally linked together by:
-
 - Process groups list (in progress)
 - Knowledge areas list (in progress)
 - Tools and techniques list (in progress)
@@ -67,23 +64,20 @@ I will most likely accept all improvements that refer to the original PMBOK 6th 
 # Progress log
 
 
+2020-06-12: New processes added, corrections
 
-2020-06-09: Chapter 13 - Stakeholder management - docs complete. Some Tools and Techniques ommited.
-
-
+2020-06-11: New processes added, corrections
 
 2020-06-10: Chapter 4 - Project integration - docs complete, links complete. Also, I have pre-added all the "project documents" so there is now 36 of them. Note that some of the documents used later in the project are not mentioned in PMBOK 4.2.3.1 Table 4-1
 
-
-
-2020-06-11: 
+2020-06-09: Chapter 13 - Stakeholder management - docs complete. Some Tools and Techniques ommited.
 
 ---
 
 Created using https://obsidian.md/ - and https://typora.io/ where applicable. The intention is to keep it compatible with https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
+# Disclamer:
 
-Disclamer:
+This is not a part of the  PMBOK guide, nor a reproduction. These document stubs are original freeware side material.
 
-This is not a part of the  PMBOK guide, nor a reproduction.
