@@ -39,7 +39,6 @@ You will find that most documents are nearly empty or a bare stub. This is inten
 
 Depending on the project size, you might find that merging some documents into one bigger file is appropriate (tailoring). Likewise, if your project is bigger, you might need additional folders, or that a specialized tool might be better for you.
 
-
 ------
 
 
@@ -69,9 +68,15 @@ I will most likely accept all improvements that refer to the original PMBOK 6th 
 
 
 
-2020-06-10: Chapter 13 - Stakeholder management - docs complete. Some Tools and Techniques ommited.
+2020-06-09: Chapter 13 - Stakeholder management - docs complete. Some Tools and Techniques ommited.
+
+
+
 2020-06-10: Chapter 4 - Project integration - docs complete, links complete. Also, I have pre-added all the "project documents" so there is now 36 of them. Note that some of the documents used later in the project are not mentioned in PMBOK 4.2.3.1 Table 4-1
 
+
+
+2020-06-11: 
 
 ---
 
