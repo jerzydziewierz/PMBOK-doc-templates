@@ -4,12 +4,45 @@
 
 # Planning
 [[p04.2 Develop project management plan]]
+[[p05.1 Plan scope management]]
+[[p05.2 Collect requirements]]
+[[p05.3 Define scope]]
+[[p05.4 Create WBS]]
+[[p06.1 Plan Schedule management]]
+[[p06.2 Define activities]]
+[[p06.3 Sequence activities]]
+[[p06.4 Estimate activity durations]]
+[[p06.5 Develop Schedule]]
+
+...
+..more here...
+...
 [[p13.2 Plan stakeholder engagement]]
 
 # Executing
 [[p04.3 Direct and manage project work]]
-[[p04.]]
+[[p04.4 Manage project knowledge]]
+[[p08.2 Manage quality]]
+[[p09.3 Acquire resources]]
+[[p09.4 Develop team]]
+[[p10.2 Manage communications]]
+[[p11.6 Implement risk responses]]
+[[p12.2 Conduct procurements]]
 [[p13.3 Manage stakeholder engagement]]
 
 # Monitoring and controling
+[[p04.5 Monitor and control project work]]
+[[p04.6 Perform integrated change control]]
+[[p05.5 Validate scope]]
+[[p05.5 Control scope]]
+[[p06.6 Control schedule]]
+[[p07.4 Control costs]]
+[[p08.3 Control quality]]
+[[p09.6 Control resources]]
+[[p10.3 Monitor communications]]
+[[p11.7 Monitor risks]]
+[[p12.3 Control procurements]]
+[[p13.4 Monitor stakeholder engagement]]
+
 # Closing
+[[p04.7 Close project or phase]]
