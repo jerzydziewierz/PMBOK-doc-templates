@@ -1,27 +1,17 @@
 # Initiating
 [[p04.1 Develop project charter]]
-
 [[p13.1 Identify stakeholders]]
 
 # Planning
 [[p04.2 Develop project management plan]]
-
 [[p05.2 Collect requirements]]
-
 [[p05.2 Collect requirements]]
-
 [[p05.3 Define scope]]
-
 [[p05.4 Create WBS]]
-
 [[p06.1 Plan Schedule management]]
-
 [[p06.2 Define activities]]
-
 [[p06.3 Sequence activities]]
-
 [[p06.4 Estimate activity durations]]
-
 [[p06.5 Develop Schedule]]
 
 ...
@@ -32,21 +22,13 @@
 
 # Executing
 [[p04.3 Direct and manage project work]]
-
 [[p04.4 Manage project knowledge]]
-
 [[p08.2 Manage quality]]
-
 [[p09.3 Acquire resources]]
-
 [[p09.4 Develop team]]
-
 [[p10.2 Manage communications]]
-
 [[p11.6 Implement risk responses]]
-
 [[p12.2 Conduct procurements]]
-
 [[p13.3 Manage stakeholder engagement]]
 
 # Monitoring and controling
