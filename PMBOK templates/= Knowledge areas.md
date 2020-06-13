@@ -1,5 +1,6 @@
 # Project Integration management
 >PMBOK p. 71
+
 * [[p04.1 Develop project charter]]
 * [[p04.2 Develop project management plan]]
 * [[p04.3 Direct and manage project work]]
@@ -10,6 +11,7 @@
 
 # Project scope management
 >PMBOK p. 129
+
 * [[p05.1 Plan scope management]]
 * [[p05.2 Collect requirements]]
 * [[p05.3 Define scope]]
@@ -19,6 +21,7 @@
 
 # Project schedule management
 >PMBOK p. 173
+>
 * [[p06.1 Plan Schedule management]]
 * [[p06.2 Define activities]]
 * [[p06.3 Sequence activities]]
