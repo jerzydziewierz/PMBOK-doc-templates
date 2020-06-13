@@ -64,9 +64,9 @@ I will most likely accept all improvements that refer to the original PMBOK 6th 
 # Progress log
 
 
-2020-06-12: New processes added, corrections
+2020-06-12: New processes added, corrections. All documents are in, but detailed links to them from processes in chapters 5-12 are not there yet.
 
-2020-06-11: New processes added, corrections
+2020-06-11: New processes added, corrections. Some files renamed for easier navigation and consistency.
 
 2020-06-10: Chapter 4 - Project integration - docs complete, links complete. Also, I have pre-added all the "project documents" so there is now 36 of them. Note that some of the documents used later in the project are not mentioned in PMBOK 4.2.3.1 Table 4-1
 
