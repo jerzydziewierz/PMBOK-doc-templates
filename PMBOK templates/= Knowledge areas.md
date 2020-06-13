@@ -27,4 +27,11 @@
 * [[p06.6 Control schedule]]
 
 
+# Project cost management
+> PMBOK p.231
+
+* [[p07.1 Plan cost management]]
+* [[p07.2 Estimate costs]]
+* [[p07.3 Determine budget]]
+* [[p07.4 Control costs]]
 
