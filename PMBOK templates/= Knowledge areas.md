@@ -21,7 +21,7 @@
 
 # Project schedule management
 >PMBOK p. 173
->
+
 * [[p06.1 Plan Schedule management]]
 * [[p06.2 Define activities]]
 * [[p06.3 Sequence activities]]
@@ -38,3 +38,52 @@
 * [[p07.3 Determine budget]]
 * [[p07.4 Control costs]]
 
+# Project quality management
+> PMBOK p.271
+
+* [[p08.1 Plan quality management]]
+* [[p08.2 Manage quality]]
+* [[p08.3 Control quality]]
+
+# Project resource management
+> PMBOK p.307
+
+* [[p09.1 Plan resource management]]
+* [[p09.2 Estimate activity resources]]
+* [[p09.3 Acquire resources]]
+* [[p09.4 Develop team]]
+* [[p09.5 Manage team]]
+* [[p09.6 Control resources]]
+
+# Project communications management
+> PMBOK p.359
+
+* [[p10.1 Plan communications management]]
+* [[p10.2 Manage communications]]
+* [[p10.3 Monitor communications]]
+
+# Project risk management
+> PMBOK p.395
+
+* [[p11.1 Plan risk management]]
+* [[p11.2 Identify risk]]
+* [[p11.3 Perform Qualitative risk analysis]]
+* [[p11.4 Perform Quantitative risk analysis]]
+* [[p11.5 Plan risk responses]]
+* [[p11.6 Implement risk responses]]
+* [[p11.7 Monitor risks]]
+
+# Project procurement management
+> PMBOK p.459
+
+* [[p12.1 Plan procurement management]]
+* [[p12.2 Conduct procurements]]
+* [[p12.3 Control procurements]]
+
+# Project stakeholder management
+> PMBOK p.503
+
+* [[p13.1 Identify stakeholders]]
+* [[p13.2 Plan stakeholder engagement]]
+* [[p13.3 Manage stakeholder engagement]]
+* [[p13.4 Monitor stakeholder engagement]]

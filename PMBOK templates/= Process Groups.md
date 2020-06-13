@@ -22,10 +22,10 @@
 * [[p10.1 Plan communications management]]
 * [[p11.1 Plan risk management]]
 * [[p11.2 Identify risk]]
-* [[p12.3 Perform Qualitative risk analysis]]
-* [[p12.4 Perform Quantitative risk analysis]]
-* [[p12.5 Plan risk responses]]
-* [[p12. Plan procurement management]]
+* [[p11.3 Perform Qualitative risk analysis]]
+* [[p11.4 Perform Quantitative risk analysis]]
+* [[p11.5 Plan risk responses]]
+* [[p12.1 Plan procurement management]]
 * [[p13.2 Plan stakeholder engagement]]
 
 # Executing
