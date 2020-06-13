@@ -7,9 +7,9 @@
 [[OPA Organizational process assets]]
 
 # .2 Tools & techniques
-Expert judgement - see [[Stakeholder register]]
+Expert judgement - see [[dd Stakeholder register]]
 
-Meetings - see [[Meeting log]]
+Meetings - see [[dd Meeting log]]
 
 # .3 Outputs
 
