@@ -1,6 +1,6 @@
 # PMBOK document templates
 Linked document structure for project management as described in the PMI PMBOK Guide 6th ed.  
-Plans, Documents, Processes, Tools &techniques e.t.c - in markdown.
+Plans, Documents, Processes, Tools and Techniques e.t.c - in markdown.
 
 ---
 
@@ -8,9 +8,9 @@ Plans, Documents, Processes, Tools &techniques e.t.c - in markdown.
 
 This repository provides easy to edit templates for starting a project documentation using the project management method from the PMI PMBOK Guide 6.0. 
 
-Importantly, the documents are organized by linking **to them** from their respective processes. Hence, you can go to a process and see and jump to project documents that are relevant to that process.
+Importantly, the documents are organized by linking **to them** from their respective processes. Hence, you can go to a process and see and jump to project documents that are relevant to that process. This way, you will not miss the documents that one should consult or update while going through the project life cycle.
 
-
+Obviously, for any specific project, it is not neccessary to use *all* of the documents.
 
 There are separate folders with:
 - **Business Documents** - 2 templates. These serve mostly as placeholders for documents that should come from outside.
@@ -24,12 +24,15 @@ The root folder contains the the super-documents:
 - Project charter
 - EEF (Enterprise Envinromental Factors) template/reminder/list
 - OPA (Organisational Process Assets) template/reminder/list
+
+
+
+To start off the navigation, I include:
+
 - Linear list of knowledge areas
 - Linear list of process groups and processes
 
 
-
-Some documents will be pre-filled with links to related documents.
 
 You will find that most (editable) documents are nearly empty or a bare stub. This is intended - these documents are supposed to be starting points for project instance notes, and not a recreation of the PMBOK Guide.  
 
@@ -61,7 +64,9 @@ I will most likely accept all improvements that refer to the original PMBOK 6th 
 
 # Progress log
 
-2020-06-13: large chunk of progress and corrections on the navigation side (processes folder), some 20 still to go. Readability upgrades, links to the PMBOK.
+2020-06-14: Navigation for  chapter 9 (Resource management)
+
+2020-06-13: Large chunk of progress and corrections on the navigation side (processes folder), some 20 still to go. Readability upgrades, links to the PMBOK.
 
 2020-06-12: New processes added, corrections. All documents are in, but detailed links to them from processes in chapters 5-12 are not there yet.
 
