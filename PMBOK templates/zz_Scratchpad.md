@@ -8,8 +8,8 @@ Project documents:
 * .
 
 
-[[EEF Enterprise Environmental Factors]]
-[[OPA Organizational process assets]]
+[[EEF_Enterprise_Environmental_Factors]]
+[[OPA_Organizational_process_assets]]
 
 # .2 Tools & techniques
 Expert judgement - see [[dd Stakeholder register]]
