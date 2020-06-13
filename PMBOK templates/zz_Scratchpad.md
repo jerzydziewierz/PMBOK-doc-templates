@@ -1,19 +1,26 @@
->PMBOK p. 134
+> PMBOK p.xxx
 # .1 Inputs
-[[Project_charter]]
+
 [[root Project management plan]]
-* [[qq Quality management plan]]
-* [[Project life cycle description]]
-* [[Development approach]]
+* .
+
+Project documents:
+* .
+
+
 [[EEF_Enterprise_Environmental_Factors]]
 [[OPA_Organizational_process_assets]]
 
 # .2 Tools & techniques
 Expert judgement - see [[dd Stakeholder register]]
-Data analysis:
-* Alternatives analysis
+
 Meetings - see [[dd Meeting log]]
 
 # .3 Outputs
-new [[qq Scope management plan]]
-new [[qq Requirements management plan]]
+new 
+
+Project management plan updates: [[root Project management plan]]
+* updates to 
+
+Project document updates:
+* updates to 

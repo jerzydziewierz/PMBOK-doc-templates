@@ -16,12 +16,17 @@
 * [[p07.1 Plan cost management]]
 * [[p07.2 Estimate costs]]
 * [[p07.3 Determine budget]]
-
-...
-..more here...
-...
-
-[[p13.2 Plan stakeholder engagement]]
+* [[p08.1 Plan quality management]]
+* [[p09.1 Plan resource management]]
+* [[p09.2 Estimate activity resources]]
+* [[p10.1 Plan communications management]]
+* [[p11.1 Plan risk management]]
+* [[p11.2 Identify risk]]
+* [[p11.3 Perform Qualitative risk analysis]]
+* [[p11.4 Perform Quantitative risk analysis]]
+* [[p11.5 Plan risk responses]]
+* [[p12.1 Plan procurement management]]
+* [[p13.2 Plan stakeholder engagement]]
 
 # Executing
 * [[p04.3 Direct and manage project work]]
@@ -29,6 +34,7 @@
 * [[p08.2 Manage quality]]
 * [[p09.3 Acquire resources]]
 * [[p09.4 Develop team]]
+* [[p09.5 Manage team]]
 * [[p10.2 Manage communications]]
 * [[p11.6 Implement risk responses]]
 * [[p12.2 Conduct procurements]]
