@@ -61,8 +61,18 @@ Please do not submit the per-project branch with Your project-specific data! I
 
 I will most likely accept all improvements that refer to the original PMBOK 6th Edition. Adaptations and extensions of PMBOK process (e.g. for agile mods) might be acceptable on a case-by-case basis.
 
+# To Do
 
-# Progress log / change log
+* Complete the list of processes
+* Complete list of tools and link them from each relevant process
+* Convert the link format to make it navigate-able outside obsidian - preferably by means of a python script
+* Adapt to [Readthedocs](<https://readthedocs.org/>) publishing (using [Sphinx](<https://www.sphinx-doc.org/en/master/>))
+* Publish as downloadable zip
+* Create some stats  e.g. 'how many links point to this document'
+* Begin using it for my next project
+* boast about success
+
+# Progress log
 
 
 
