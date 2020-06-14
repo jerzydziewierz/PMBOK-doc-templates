@@ -62,9 +62,13 @@ Please do not submit the per-project branch with Your project-specific data! I
 I will most likely accept all improvements that refer to the original PMBOK 6th Edition. Adaptations and extensions of PMBOK process (e.g. for agile mods) might be acceptable on a case-by-case basis.
 
 
-# Progress log
+# Progress log / change log
 
-2020-06-14: Navigation for  chapter 9 (Resource management)
+
+
+2020-06-14: Navigation for chapter 10 (Communications management), and related content
+
+2020-06-14: Navigation for  chapter 9 (Resource management), content for chapers 9.1 through 9.6
 
 2020-06-13: Large chunk of progress and corrections on the navigation side (processes folder), some 20 still to go. Readability upgrades, links to the PMBOK.
 

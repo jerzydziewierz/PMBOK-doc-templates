@@ -6,6 +6,6 @@ PMBOK 13.1.1.7
 
 ---
 testing classic markdown link style:
-[test - PC](Project_charter.md)
+[test - PC](Project%20charter)
 [test - control_costs](p07.4%20Control%20costs)
 
