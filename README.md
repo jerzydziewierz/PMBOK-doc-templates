@@ -21,16 +21,16 @@ There are separate folders with:
 
 
 The root folder contains the the super-documents:
-- Project charter
-- EEF (Enterprise Envinromental Factors) template/reminder/list
-- OPA (Organisational Process Assets) template/reminder/list
+- [Project charter](PMBOK%20templates/Project%20charter.md)
+- [EEF (Enterprise Envinromental Factors)](PMBOK%20templates/EEF%20Enterprise%20Environmental%20Factors.md) template/reminder/list
+- [OPA (Organisational Process Assets)](PMBOK%20templates/OPA%20Organizational%20process%20assets.md) template/reminder/list
 
 
 
 To start off the navigation, I include:
 
-- Linear list of knowledge areas
-- Linear list of process groups and processes
+- Linear list of processes sorted by [knowledge area](PMBOK%20templates/=Knowledge%20areas.md) (Integration, scope, e.t.c.)
+- Linear list of processes listed by [process group](PMBOK%20templates/=Process%20groups.md) (Initiation, planning, execution, monitoring, closing)
 
 
 
@@ -50,47 +50,9 @@ Depending on the project size, you might find that merging some documents into o
 
 You can use e.g. https://obsidian.md/ to keep these as a common, linked system. 
 
+---
 
-# How to contribute
-
-If you can improve these templates, please do! I accept pull requests.
-
-Edit your templates branch and then create a pull request for the changes that you want to submit only.
-
-Please do not submit the per-project branch with Your project-specific data! I
-
-I will most likely accept all improvements that refer to the original PMBOK 6th Edition. Adaptations and extensions of PMBOK process (e.g. for agile mods) might be acceptable on a case-by-case basis.
-
-# To Do
-
-* Complete list of tools and link them from each relevant process
-* Make sure all documents have a reference to PMBOK for further explanations
-* Convert the link format to make it navigate-able outside obsidian - preferably by means of a python script
-* Adapt to [Readthedocs](<https://readthedocs.org/>) publishing (using [Sphinx](<https://www.sphinx-doc.org/en/master/>))
-* Figure out what to do with "lost documents" from the folder "0meta_lost_and_found"
-* Publish as downloadable zip
-* Create some stats  e.g. 'how many links point to this document'
-* Begin using it for my next project
-
-# Progress log
-
-
-
-2020-06-15: All processes are now complete. The templates are ready to use, altough more can be done to beautify tools section.
-
-2020-06-14: Navigation for chapter 10 (Communications management), and related content
-
-2020-06-14: Navigation for  chapter 9 (Resource management), content for chapers 9.1 through 9.6
-
-2020-06-13: Large chunk of progress and corrections on the navigation side (processes folder), some 20 still to go. Readability upgrades, links to the PMBOK.
-
-2020-06-12: New processes added, corrections. All documents are in, but detailed links to them from processes in chapters 5-12 are not there yet.
-
-2020-06-11: New processes added, corrections. Some files renamed for easier navigation and consistency.
-
-2020-06-10: Chapter 4 - Project integration - docs complete, links complete. Also, I have pre-added all the "project documents" so there is now 36 of them. Note that some of the documents used later in the project are not mentioned in PMBOK 4.2.3.1 Table 4-1
-
-2020-06-09: Chapter 13 - Stakeholder management - docs complete. Some Tools and Techniques ommited.
+Here's a link to the [Change log](changelog.md) 
 
 ---
 
