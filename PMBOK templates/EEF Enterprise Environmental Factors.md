@@ -1,3 +1,4 @@
-template for Enterprise Environmental factors 
-* log
-* list
+> These are described indyvidually for each affected process
+> 45+ mentions
+
+
