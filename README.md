@@ -34,7 +34,7 @@ To start off the navigation, I include:
 
 
 
-You will find that most (editable) documents are nearly empty or a bare stub. This is intended - these documents are supposed to be starting points for project instance notes, and not a recreation of the PMBOK Guide.  
+You will find that most (editable) documents are nearly empty or a bare stub. This is intended - these documents are supposed to be starting points for project instance notes, and not a recreation of the PMBOK Guide.  Some documents include references to the PMBOK for further explanation. 
 
 Depending on the project size, you might find that merging some documents into one bigger file is appropriate (tailoring). Likewise, if your project is bigger, you might need additional folders, or that a specialized tool might be better for you.
 
@@ -63,18 +63,20 @@ I will most likely accept all improvements that refer to the original PMBOK 6th 
 
 # To Do
 
-* Complete the list of processes
 * Complete list of tools and link them from each relevant process
+* Make sure all documents have a reference to PMBOK for further explanations
 * Convert the link format to make it navigate-able outside obsidian - preferably by means of a python script
 * Adapt to [Readthedocs](<https://readthedocs.org/>) publishing (using [Sphinx](<https://www.sphinx-doc.org/en/master/>))
+* Figure out what to do with "lost documents" from the folder "0meta_lost_and_found"
 * Publish as downloadable zip
 * Create some stats  e.g. 'how many links point to this document'
 * Begin using it for my next project
-* boast about success
 
 # Progress log
 
 
+
+2020-06-15: All processes are now complete. The templates are ready to use, altough more can be done to beautify tools section.
 
 2020-06-14: Navigation for chapter 10 (Communications management), and related content
 
