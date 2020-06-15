@@ -1,3 +1,3 @@
-template for Business case
-Described in PMBOK 1.2.6.1
+> PMBOK 1.2.6.1
+
 
