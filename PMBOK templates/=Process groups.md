@@ -5,7 +5,6 @@
 # Planning
 * [[p04.2 Develop project management plan]]
 * [[p05.2 Collect requirements]]
-* [[p05.2 Collect requirements]]
 * [[p05.3 Define scope]]
 * [[p05.4 Create WBS]]
 * [[p06.1 Plan Schedule management]]
