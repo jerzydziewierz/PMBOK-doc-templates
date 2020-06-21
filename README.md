@@ -47,6 +47,7 @@ Depending on the project size, you might find that merging some documents into o
 2. Create a "template" branch and a per-project branch
 3. Edit and fill the project documents in your per-project branch
 4. Edit templates in the templates branch, and then merge into the per-project branch
+5. If desired, use [typobs](https://github.com/jerzydziewierz/typobs) to move between Typora or Obsidian linking styles.
 
 You can use e.g. https://obsidian.md/ to keep these as a common, linked system. 
 
@@ -56,11 +57,13 @@ Here's a link to the [Change log](changelog.md)
 
 ---
 
-Created using https://obsidian.md/ - and https://typora.io/ where applicable. The intention is to keep it compatible with https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Created using https://obsidian.md/ - and https://typora.io/ where applicable. 
+
+I have used [typobs](https://github.com/jerzydziewierz/typobs) to convert between typora and obsidian link styles.
+
+The intention is to keep it compatible with https://spec.commonmark.org/current/
 
 
-
-also see https://nvie.com/posts/a-successful-git-branching-model/ and https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow. 
 
 
 # Disclamer:
