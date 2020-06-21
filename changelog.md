@@ -16,16 +16,16 @@ I will most likely accept all improvements that refer to the original PMBOK 6th 
 
 * Complete list of tools and link them from each relevant process
 * Make sure all documents have a reference to PMBOK for further explanations
-* Convert the link format to make it navigate-able outside obsidian - preferably by means of a python script
 * Adapt to [Readthedocs](<https://readthedocs.org/>) publishing (using [Sphinx](<https://www.sphinx-doc.org/en/master/>))
 * Figure out what to do with "lost documents" from the folder "0meta_lost_and_found"
 * Publish as downloadable zip
 * Create some stats  e.g. 'how many links point to this document'
-* Begin using it for my next project
+* [x] Begin using it for my next project
+* [x] convert links to commonmark standard so that it is more compatible with non-obsidian editors
 
 # Progress log
 
-
+2020-06-21: Modified all the links to the commonmark standard, using [typobs](https://github.com/jerzydziewierz/typobs)
 
 2020-06-15: All processes are now complete. The templates are ready to use, altough more can be done to beautify tools section.
 
@@ -46,12 +46,6 @@ I will most likely accept all improvements that refer to the original PMBOK 6th 
 ---
 
 Created using https://obsidian.md/ - and https://typora.io/ where applicable. The intention is to keep it compatible with https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-
-
-also see https://nvie.com/posts/a-successful-git-branching-model/ and https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow. 
-
----
 
 go back to [the readme document](README.md)
 
