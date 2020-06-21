@@ -9,7 +9,7 @@
 * Quality requirements
 
 
-constraints described in [[qq Requirements management plan]]
-drives [[dd Requirements traceability matrix]]
+constraints described in [qq Requirements management plan](../Project%20Management%20Plans/qq%20Requirements%20management%20plan.md)
+drives [dd Requirements traceability matrix](../Project%20Documents/dd%20Requirements%20traceability%20matrix.md)
 
 

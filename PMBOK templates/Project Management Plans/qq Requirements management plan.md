@@ -2,7 +2,7 @@
 
 How do you get and organize requirements?
 
-gives a guideline how to fill the [[dd Requirements documentation]] and [[dd Requirements traceability matrix]]
+gives a guideline how to fill the [[dd Requirements documentation](../0meta_lost_and_found/Procurement%20documentation.md)
 
 
 

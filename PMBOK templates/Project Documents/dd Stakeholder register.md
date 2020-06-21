@@ -7,8 +7,8 @@
 
 ---
 
-first created in [[p13.1 Identify stakeholders]]
-may use [[Stakeholder engagement assessment matrix]]
+first created in [p13.1 Identify stakeholders](../Processes/p13.1%20Identify%20stakeholders.md)
+may use [Stakeholder engagement assessment matrix](../Tools%20and%20techniques/Stakeholder%20engagement%20assessment%20matrix.md)
 
 Levels of engagement:
 * Unaware

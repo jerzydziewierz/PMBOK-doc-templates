@@ -2,7 +2,7 @@
 
 How will you deal with risk?
 
-describes the [[dd Risk register]] and [[dd Risk report]]
+describes the [[dd Risk register](../0meta_lost_and_found/Procurement%20documentation.md)
 
 * Risk strategy
 * Methodology

@@ -1,92 +1,92 @@
 # Project Integration management
 >PMBOK p. 71
 
-* [[p04.1 Develop project charter]]
-* [[p04.2 Develop project management plan]]
-* [[p04.3 Direct and manage project work]]
-* [[p04.4 Manage project knowledge]]
-* [[p04.5 Monitor and control project work]]
-* [[p04.6 Perform integrated change control]]
-* [[p04.7 Close project or phase]]
+* [p04.1 Develop project charter](Processes/p04.1%20Develop%20project%20charter.md)
+* [p04.2 Develop project management plan](Processes/p04.2%20Develop%20project%20management%20plan.md)
+* [p04.3 Direct and manage project work](Processes/p04.3%20Direct%20and%20manage%20project%20work.md)
+* [p04.4 Manage project knowledge](Processes/p04.4%20Manage%20project%20knowledge.md)
+* [p04.5 Monitor and control project work](Processes/p04.5%20Monitor%20and%20control%20project%20work.md)
+* [p04.6 Perform integrated change control](Processes/p04.6%20Perform%20integrated%20change%20control.md)
+* [p04.7 Close project or phase](Processes/p04.7%20Close%20project%20or%20phase.md)
 
 # Project scope management
 >PMBOK p. 129
 
-* [[p05.1 Plan scope management]]
-* [[p05.2 Collect requirements]]
-* [[p05.3 Define scope]]
-* [[p05.4 Create WBS]]
-* [[p05.5 Validate scope]]
-* [[p05.6 Control scope]]
+* [p05.1 Plan scope management](Processes/p05.1%20Plan%20scope%20management.md)
+* [p05.2 Collect requirements](Processes/p05.2%20Collect%20requirements.md)
+* [p05.3 Define scope](Processes/p05.3%20Define%20scope.md)
+* [p05.4 Create WBS](Processes/p05.4%20Create%20WBS.md)
+* [p05.5 Validate scope](Processes/p05.5%20Validate%20scope.md)
+* [p05.6 Control scope](Processes/p05.6%20Control%20scope.md)
 
 # Project schedule management
 >PMBOK p. 173
 
-* [[p06.1 Plan Schedule management]]
-* [[p06.2 Define activities]]
-* [[p06.3 Sequence activities]]
-* [[p06.4 Estimate activity durations]]
-* [[p06.5 Develop Schedule]]
-* [[p06.6 Control schedule]]
+* [p06.1 Plan Schedule management](Processes/p06.1%20Plan%20Schedule%20management.md)
+* [p06.2 Define activities](Processes/p06.2%20Define%20activities.md)
+* [p06.3 Sequence activities](Processes/p06.3%20Sequence%20activities.md)
+* [p06.4 Estimate activity durations](Processes/p06.4%20Estimate%20activity%20durations.md)
+* [p06.5 Develop Schedule](Processes/p06.5%20Develop%20Schedule.md)
+* [p06.6 Control schedule](Processes/p06.6%20Control%20schedule.md)
 
 
 # Project cost management
 > PMBOK p.231
 
-* [[p07.1 Plan cost management]]
-* [[p07.2 Estimate costs]]
-* [[p07.3 Determine budget]]
-* [[p07.4 Control costs]]
+* [p07.1 Plan cost management](Processes/p07.1%20Plan%20cost%20management.md)
+* [p07.2 Estimate costs](Processes/p07.2%20Estimate%20costs.md)
+* [p07.3 Determine budget](Processes/p07.3%20Determine%20budget.md)
+* [p07.4 Control costs](Processes/p07.4%20Control%20costs.md)
 
 # Project quality management
 > PMBOK p.271
 
-* [[p08.1 Plan quality management]]
-* [[p08.2 Manage quality]]
-* [[p08.3 Control quality]]
+* [p08.1 Plan quality management](Processes/p08.1%20Plan%20quality%20management.md)
+* [p08.2 Manage quality](Processes/p08.2%20Manage%20quality.md)
+* [p08.3 Control quality](Processes/p08.3%20Control%20quality.md)
 
 # Project resource management
 > PMBOK p.307
 
-* [[p09.1 Plan resource management]]
-* [[p09.2 Estimate activity resources]]
-* [[p09.3 Acquire resources]]
-* [[p09.4 Develop team]]
-* [[p09.5 Manage team]]
-* [[p09.6 Control resources]]
+* [p09.1 Plan resource management](Processes/p09.1%20Plan%20resource%20management.md)
+* [p09.2 Estimate activity resources](Processes/p09.2%20Estimate%20activity%20resources.md)
+* [p09.3 Acquire resources](Processes/p09.3%20Acquire%20resources.md)
+* [p09.4 Develop team](Processes/p09.4%20Develop%20team.md)
+* [p09.5 Manage team](Processes/p09.5%20Manage%20team.md)
+* [p09.6 Control resources](Processes/p09.6%20Control%20resources.md)
 
 # Project communications management
 > PMBOK p.359
 
-* [[p10.1 Plan communications management]]
-* [[p10.2 Manage communications]]
-* [[p10.3 Monitor communications]]
+* [p10.1 Plan communications management](Processes/p10.1%20Plan%20communications%20management.md)
+* [p10.2 Manage communications](Processes/p10.2%20Manage%20communications.md)
+* [p10.3 Monitor communications](Processes/p10.3%20Monitor%20communications.md)
 
 # Project risk management
 > PMBOK p.395
 
-* [[p11.1 Plan risk management]]
-* [[p11.2 Identify risk]]
-* [[p11.3 Perform Qualitative risk analysis]]
-* [[p11.4 Perform Quantitative risk analysis]]
-* [[p11.5 Plan risk responses]]
-* [[p11.6 Implement risk responses]]
-* [[p11.7 Monitor risks]]
+* [p11.1 Plan risk management](Processes/p11.1%20Plan%20risk%20management.md)
+* [p11.2 Identify risk](Processes/p11.2%20Identify%20risk.md)
+* [p11.3 Perform Qualitative risk analysis](Processes/p11.3%20Perform%20Qualitative%20risk%20analysis.md)
+* [p11.4 Perform Quantitative risk analysis](Processes/p11.4%20Perform%20Quantitative%20risk%20analysis.md)
+* [p11.5 Plan risk responses](Processes/p11.5%20Plan%20risk%20responses.md)
+* [p11.6 Implement risk responses](Processes/p11.6%20Implement%20risk%20responses.md)
+* [p11.7 Monitor risks](Processes/p11.7%20Monitor%20risks.md)
 
 # Project procurement management
 > PMBOK p.459
 
-* [[p12.1 Plan procurement management]]
-* [[p12.2 Conduct procurements]]
-* [[p12.3 Control procurements]]
+* [p12.1 Plan procurement management](Processes/p12.1%20Plan%20procurement%20management.md)
+* [p12.2 Conduct procurements](Processes/p12.2%20Conduct%20procurements.md)
+* [p12.3 Control procurements](Processes/p12.3%20Control%20procurements.md)
 
 # Project stakeholder management
 > PMBOK p.503
 
-* [[p13.1 Identify stakeholders]]
-* [[p13.2 Plan stakeholder engagement]]
-* [[p13.3 Manage stakeholder engagement]]
-* [[p13.4 Monitor stakeholder engagement]]
+* [p13.1 Identify stakeholders](Processes/p13.1%20Identify%20stakeholders.md)
+* [p13.2 Plan stakeholder engagement](Processes/p13.2%20Plan%20stakeholder%20engagement.md)
+* [p13.3 Manage stakeholder engagement](Processes/p13.3%20Manage%20stakeholder%20engagement.md)
+* [p13.4 Monitor stakeholder engagement](Processes/p13.4%20Monitor%20stakeholder%20engagement.md)
 
 ---
 back to [Index](Index)

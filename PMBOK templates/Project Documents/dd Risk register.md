@@ -7,4 +7,4 @@
 
 `Risk register` provides information on threats and opportunities that may impact project execution
 
-provides data for [[dd Risk report]]
+provides data for [dd Risk report](../Project%20Documents/dd%20Risk%20report.md)
