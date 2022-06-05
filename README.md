@@ -43,13 +43,14 @@ Depending on the project size, you might find that merging some documents into o
 
 # How to use this
 
-1. Clone the repository or copy the files to your own machine
-2. Create a "template" branch and a per-project branch
-3. Edit and fill the project documents in your per-project branch
-4. Edit templates in the templates branch, and then merge into the per-project branch
-5. If desired, use [typobs](https://github.com/jerzydziewierz/typobs) to move between Typora or Obsidian linking styles.
+1. Copy the files to your own machine (download [as a zip file](https://github.com/jerzydziewierz/PMBOK-doc-templates/archive/refs/heads/master.zip) or use `git clone git@github.com:jerzydziewierz/PMBOK-doc-templates.git ` )
+2. Make a new folder, "project document templates" folder in your project documents repository, and copy these templates again
+3. Edit and fill the documents as needed. Remove everything that is not needed. Going with the spirit of PMBOK Guide, you can and should choose which headlines to use, and also rename them as needed. The only thing that PMBOK stipulates is that, when  starting a new project, you should at least review & consider all  these categories of problems. See the [Tailoring explainer](https://www.pmi.org/-/media/pmi/documents/public/pdf/pmbok-standards/pmbok-tailoring-explainer-20-oct-2020.pdf) , or [Tailoring whitepaper](https://www.pmi.org/learning/library/tailoring-benefits-project-management-methodology-11133)
+5. ~~(obsolete) If desired, use [typobs](https://github.com/jerzydziewierz/typobs) to move between Typora or Obsidian linking styles.~~
 
 You can use e.g. https://obsidian.md/ to keep these as a common, linked system. 
+
+
 
 ---
 
@@ -68,5 +69,7 @@ The intention is to keep it compatible with https://spec.commonmark.org/current/
 
 # Disclamer:
 
-This is not a part of the  PMBOK guide, nor a reproduction. These document stubs are original freeware side material.
+This is not a part of the  PMBOK guide, nor a reproduction. These document stubs are an original freeware side material. 
+
+License: Apache 2.0, see [the full text license here](LICENSE)
 
