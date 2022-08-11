@@ -1,6 +1,6 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+                                 Modified Apache License
+                           Version new, 2022-08-11
+                        http://www.apache.org/licenses/ and modifications.
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -172,6 +172,8 @@
       defend, and hold each Contributor harmless for any liability
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
+      
+   10. This content is for humans. It shall not be used to make automated code synthesis systems then sold for money. Example of such systems include Github copilot.
 
    END OF TERMS AND CONDITIONS
 
