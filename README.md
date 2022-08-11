@@ -71,5 +71,5 @@ The intention is to keep it compatible with https://spec.commonmark.org/current/
 
 This is not a part of the  PMBOK guide, nor a reproduction. These document stubs are an original freeware side material. 
 
-License: Apache 2.0, see [the full text license here](LICENSE)
+License: Modified Apache 2.0, see [the full text license here](LICENSE)
 
