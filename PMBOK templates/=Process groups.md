@@ -1,8 +1,12 @@
-# Initiating
+# Process groups
+
+## Initiating
+
 * [p04.1 Develop project charter](Processes/p04.1%20Develop%20project%20charter.md)
 * [p13.1 Identify stakeholders](Processes/p13.1%20Identify%20stakeholders.md)
 
-# Planning
+## Planning
+
 * [p04.2 Develop project management plan](Processes/p04.2%20Develop%20project%20management%20plan.md)
 * [p05.2 Collect requirements](Processes/p05.2%20Collect%20requirements.md)
 * [p05.3 Define scope](Processes/p05.3%20Define%20scope.md)
@@ -27,7 +31,8 @@
 * [p12.1 Plan procurement management](Processes/p12.1%20Plan%20procurement%20management.md)
 * [p13.2 Plan stakeholder engagement](Processes/p13.2%20Plan%20stakeholder%20engagement.md)
 
-# Executing
+## Executing
+
 * [p04.3 Direct and manage project work](Processes/p04.3%20Direct%20and%20manage%20project%20work.md)
 * [p04.4 Manage project knowledge](Processes/p04.4%20Manage%20project%20knowledge.md)
 * [p08.2 Manage quality](Processes/p08.2%20Manage%20quality.md)
@@ -39,7 +44,8 @@
 * [p12.2 Conduct procurements](Processes/p12.2%20Conduct%20procurements.md)
 * [p13.3 Manage stakeholder engagement](Processes/p13.3%20Manage%20stakeholder%20engagement.md)
 
-# Monitoring and controling
+## Monitoring and controlling
+
 * [p04.5 Monitor and control project work](Processes/p04.5%20Monitor%20and%20control%20project%20work.md)
 * [p04.6 Perform integrated change control](Processes/p04.6%20Perform%20integrated%20change%20control.md)
 * [p05.5 Validate scope](Processes/p05.5%20Validate%20scope.md)
@@ -53,7 +59,8 @@
 * [p12.3 Control procurements](Processes/p12.3%20Control%20procurements.md)
 * [p13.4 Monitor stakeholder engagement](Processes/p13.4%20Monitor%20stakeholder%20engagement.md)
 
-# Closing
+## Closing
+
 * [p04.7 Close project or phase](Processes/p04.7%20Close%20project%20or%20phase.md)
 
 ---

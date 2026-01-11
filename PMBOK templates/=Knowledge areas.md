@@ -1,4 +1,7 @@
-# Project Integration management
+# Knowledge areas
+
+## Project Integration management
+>
 >PMBOK p. 71
 
 * [p04.1 Develop project charter](Processes/p04.1%20Develop%20project%20charter.md)
@@ -9,7 +12,8 @@
 * [p04.6 Perform integrated change control](Processes/p04.6%20Perform%20integrated%20change%20control.md)
 * [p04.7 Close project or phase](Processes/p04.7%20Close%20project%20or%20phase.md)
 
-# Project scope management
+## Project scope management
+>
 >PMBOK p. 129
 
 * [p05.1 Plan scope management](Processes/p05.1%20Plan%20scope%20management.md)
@@ -19,7 +23,8 @@
 * [p05.5 Validate scope](Processes/p05.5%20Validate%20scope.md)
 * [p05.6 Control scope](Processes/p05.6%20Control%20scope.md)
 
-# Project schedule management
+## Project schedule management
+>
 >PMBOK p. 173
 
 * [p06.1 Plan Schedule management](Processes/p06.1%20Plan%20Schedule%20management.md)
@@ -29,8 +34,8 @@
 * [p06.5 Develop Schedule](Processes/p06.5%20Develop%20Schedule.md)
 * [p06.6 Control schedule](Processes/p06.6%20Control%20schedule.md)
 
-
-# Project cost management
+## Project cost management
+>
 > PMBOK p.231
 
 * [p07.1 Plan cost management](Processes/p07.1%20Plan%20cost%20management.md)
@@ -38,14 +43,16 @@
 * [p07.3 Determine budget](Processes/p07.3%20Determine%20budget.md)
 * [p07.4 Control costs](Processes/p07.4%20Control%20costs.md)
 
-# Project quality management
+## Project quality management
+>
 > PMBOK p.271
 
 * [p08.1 Plan quality management](Processes/p08.1%20Plan%20quality%20management.md)
 * [p08.2 Manage quality](Processes/p08.2%20Manage%20quality.md)
 * [p08.3 Control quality](Processes/p08.3%20Control%20quality.md)
 
-# Project resource management
+## Project resource management
+>
 > PMBOK p.307
 
 * [p09.1 Plan resource management](Processes/p09.1%20Plan%20resource%20management.md)
@@ -55,14 +62,16 @@
 * [p09.5 Manage team](Processes/p09.5%20Manage%20team.md)
 * [p09.6 Control resources](Processes/p09.6%20Control%20resources.md)
 
-# Project communications management
+## Project communications management
+>
 > PMBOK p.359
 
 * [p10.1 Plan communications management](Processes/p10.1%20Plan%20communications%20management.md)
 * [p10.2 Manage communications](Processes/p10.2%20Manage%20communications.md)
 * [p10.3 Monitor communications](Processes/p10.3%20Monitor%20communications.md)
 
-# Project risk management
+## Project risk management
+>
 > PMBOK p.395
 
 * [p11.1 Plan risk management](Processes/p11.1%20Plan%20risk%20management.md)
@@ -73,14 +82,16 @@
 * [p11.6 Implement risk responses](Processes/p11.6%20Implement%20risk%20responses.md)
 * [p11.7 Monitor risks](Processes/p11.7%20Monitor%20risks.md)
 
-# Project procurement management
+## Project procurement management
+>
 > PMBOK p.459
 
 * [p12.1 Plan procurement management](Processes/p12.1%20Plan%20procurement%20management.md)
 * [p12.2 Conduct procurements](Processes/p12.2%20Conduct%20procurements.md)
 * [p12.3 Control procurements](Processes/p12.3%20Control%20procurements.md)
 
-# Project stakeholder management
+## Project stakeholder management
+>
 > PMBOK p.503
 
 * [p13.1 Identify stakeholders](Processes/p13.1%20Identify%20stakeholders.md)

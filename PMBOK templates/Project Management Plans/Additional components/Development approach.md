@@ -1,1 +1,4 @@
-Describes the product, service, or result development approach, such as predictive, ireative, agile, or a hybrid model
+# Development approach
+
+Describes the product, service, or result development approach,
+such as predictive, ireative, agile, or a hybrid model

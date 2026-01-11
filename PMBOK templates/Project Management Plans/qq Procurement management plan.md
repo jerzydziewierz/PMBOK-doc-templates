@@ -1,3 +1,5 @@
+# qq Procurement management plan
+
 > PMBOK 12.1.3.1 p.475
 
 How will you deal with procurement?
@@ -11,4 +13,3 @@ How will you deal with procurement?
 * wheter independent estimates will be used
 * Risk management issues
 * Prequalified sellers, if any
-

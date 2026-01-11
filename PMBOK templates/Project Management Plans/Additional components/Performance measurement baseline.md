@@ -1,1 +1,4 @@
-An integrated scope-schedule-cost plan for the project work against which project execution is compared to measure and manage performance
+# Performance measurement baseline
+
+An integrated scope-schedule-cost plan for the project work against
+which project execution is compared to measure and manage performance
