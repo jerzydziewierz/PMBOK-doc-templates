@@ -1,4 +1,7 @@
-# PMBOK document templates
+# Migrated to: https://codeberg.org/greycodes/PMBOK-doc-templates
+
+
+## PMBOK document templates
 Linked document structure for project management as described in the PMI PMBOK Guide 6th ed.  
 Plans, Documents, Processes, Tools and Techniques e.t.c - in markdown.
 
